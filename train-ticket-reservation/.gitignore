@@ -1,0 +1,29 @@
+# Compiled binaries
+*.exe
+*.out
+*.o
+*.obj
+a.out
+
+# Build directories
+build/
+bin/
+out/
+
+# Reservation data file (contains passenger data — never upload)
+seats_reserved.txt
+*.txt
+
+# IDE files
+.vscode/
+.idea/
+*.cbp
+*.layout
+*.depend
+*.sdf
+*.suo
+*.user
+
+# OS
+.DS_Store
+Thumbs.db
